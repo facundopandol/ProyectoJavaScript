@@ -37,6 +37,6 @@ while (bienvenida === "s") {
     } else {
         alert(`Tu resultado es ${resultado} grados ${temp2}`);
     }
-    bienvenida = prompt("Quieres hacer otra conversión? (s/n)")
+    bienvenida = prompt("Gracias por usar nuestro sistema de conversión. \nQuieres hacer otra conversión? (s/n)")
 }
-alert("Gracias por usar nuestro sistema de conversión de unidades de temperatura");
+alert("Regresa cuando quieras para usar nuestro conversor de unidades de temperatura");
